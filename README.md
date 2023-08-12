@@ -18,4 +18,18 @@ Tools:
 * Buzzer
 * Ultrasonic sensor
 
+  
+<p align="center">
+<picture>
+  <img alt="buzzer" src="buzzer.jpeg" width="60%" hight="40%" >
+</picture>
+</p>
+
+<p align="center">
+<picture>
+  <img alt="ultrasonic_sensor" src="ultrasonic.jpeg" width="60%" hight="40%" >
+</picture>
+</p>
+
+
 
