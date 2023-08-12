@@ -13,7 +13,7 @@ In the realm of vehicle safety, collision warning systems have become a standard
 Our system utilizes ultrasonic sensors and a buzzer. Ultrasonic sensors detect nearby objects using sound waves. When an object gets close, the sensors measure the time it takes for the sound to bounce back, helping determine the distance. If the distance is below a certain threshold, the buzzer activates, warning the driver. This alerts the driver to the presence of nearby obstacles, aiding in avoidance.
 
 
-Tools:
+### Tools:
 * Raspberry Pi
 * Buzzer
 * Ultrasonic sensor
