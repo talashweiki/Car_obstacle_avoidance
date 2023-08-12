@@ -30,10 +30,10 @@ Our system utilizes ultrasonic sensors and a buzzer. Ultrasonic sensors detect n
 </picture>
 </p>
 
-### The code:
+### The code :
 [click here](test2.py)
 
-### The Team:
+### The Team :
 * [Tala Shweiki](https://github.com/talashweiki)
 * [Zaina Musleh](https://github.com/Zainamusleh)
 * [Hala Kharouf](https://github.com/hala214)
