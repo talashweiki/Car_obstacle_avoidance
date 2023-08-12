@@ -17,6 +17,7 @@ Our system utilizes ultrasonic sensors and a buzzer. Ultrasonic sensors detect n
 * Raspberry Pi
 * Buzzer
 * Ultrasonic sensor
+* Two resistors (330,470 Ω)
 
   
 <p align="ceret">
@@ -26,7 +27,7 @@ Our system utilizes ultrasonic sensors and a buzzer. Ultrasonic sensors detect n
 </p>
 <p align="left">
 <picture>
-  <img alt="ultrasonic" src="ultrasonic.png" width="40%" hight="40%" >
+  <img alt="ultrasonic" src="ultra.webp" width="40%" hight="40%" >
 </picture>
 </p>
 
