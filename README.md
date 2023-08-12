@@ -19,17 +19,27 @@ Tools:
 * Ultrasonic sensor
 
   
-<p align="center">
+<p align="ceret">
 <picture>
-  <img alt="buzzer" src="buzzer.jpeg" width="60%" hight="40%" >
+  <img alt="buzzer" src="buzzer.jpg" width="30%" hight="40%" >
+</picture>
+</p>
+<p align="left">
+<picture>
+  <img alt="ultrasonic" src="ultrasonic.png" width="40%" hight="40%" >
 </picture>
 </p>
 
-<p align="center">
-<picture>
-  <img alt="ultrasonic_sensor" src="ultrasonic.jpeg" width="60%" hight="40%" >
-</picture>
-</p>
+### The code:
+[click here](test2.py)
+
+### The Team:
+* [Tala Shweiki](https://github.com/talashweiki)
+* [Zaina Musleh](https://github.com/Zainamusleh)
+* [Hala Kharouf](https://github.com/hala214)
+
+
+
 
 
 
